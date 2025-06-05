@@ -19,7 +19,7 @@ This project explores global COVID-19 trends using SQL on a public dataset. The 
 
 ## 📂 Data Sources - Kaggle
 
-- **`covid_deaths`**: Contains data on cases, deaths, and population by location and date.
+- CovidDeaths.xlsx: Contains data on cases, deaths, and population by location and date.
 - **`covid_vaccinations`**: Contains data on daily and cumulative vaccinations by country.
 
 
